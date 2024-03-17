@@ -1,0 +1,335 @@
+{
+    "rutrackerId": "6155218",
+    "rutrackerURL": "https://rutracker.org/forum/viewtopic.php?t=6155218",
+    "title": "The Mythical Man-Month: Essays on Software Engineering. Anniversary Edition / Мифический человеко-месяц, или Как создаются программные системы",
+    "description": "Немногие книги по управлению проектами можно назвать столь же значимыми, как «Мифический человеко-месяц». Смешение примеров из реальной разработки ПО, мнений и размышлений создает яркую картину управления сложными проектами. Эти эссе основаны на пятидесятилетнем опыте работы Брукса менеджером проектов в IBM System/360, а затем в OS/360.",
+    "publishDate": "2021-12-24T19:42:00.000Z",
+    "author": {
+        "rutrackerId": "43141996",
+        "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=43141996",
+        "username": "Propos"
+    },
+    "magnetURL": "magnet:?xt=urn:btih:FA9AB2A8FA00F2ED534567EB13EC6350A1C2B77A&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0%20-%20Frederick%20Brooks%20%2F%20%D0%A4%D1%80%D0%B5%D0%B4%D0%B5%D1%80%D0%B8%D0%BA%20%D0%91%D1%80%D1%83%D0%BA%D1%81%20-%20The%20Mythical%20Man-Month%3A%20Essays%20on%20Software%20Engineering.%20Anniversary%20Edition%20%2F%20%D0%9C%D0%B8%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9",
+    "downloadTorrentURL": "https://rutracker.org/forum/dl.php?t=6155218",
+    "thanksList": [
+        {
+            "username": "syst56",
+            "rutrackerId": "14213270",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=14213270",
+            "thankDate": "2024-02-15T21:00:00.000Z"
+        },
+        {
+            "username": "Duremar333",
+            "rutrackerId": "31874364",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=31874364",
+            "thankDate": "2024-02-12T21:00:00.000Z"
+        },
+        {
+            "username": "supakest",
+            "rutrackerId": "20339084",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=20339084",
+            "thankDate": "2024-02-10T21:00:00.000Z"
+        },
+        {
+            "username": "VStrel77",
+            "rutrackerId": "32546901",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=32546901",
+            "thankDate": "2024-01-31T21:00:00.000Z"
+        },
+        {
+            "username": "jus54",
+            "rutrackerId": "34738307",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=34738307",
+            "thankDate": "2024-01-31T21:00:00.000Z"
+        },
+        {
+            "username": "krab89",
+            "rutrackerId": "21377797",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=21377797",
+            "thankDate": "2024-01-22T21:00:00.000Z"
+        },
+        {
+            "username": "Vlad0562",
+            "rutrackerId": "17022516",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=17022516",
+            "thankDate": "2024-01-22T21:00:00.000Z"
+        },
+        {
+            "username": "-kubarik-",
+            "rutrackerId": "15545302",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=15545302",
+            "thankDate": "2024-01-21T21:00:00.000Z"
+        },
+        {
+            "username": "yatopop",
+            "rutrackerId": "13389625",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=13389625",
+            "thankDate": "2024-01-20T21:00:00.000Z"
+        },
+        {
+            "username": "Skaballanovich",
+            "rutrackerId": "18234812",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=18234812",
+            "thankDate": "2024-01-18T21:00:00.000Z"
+        },
+        {
+            "username": "Rock_n_Roller",
+            "rutrackerId": "15204345",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=15204345",
+            "thankDate": "2024-01-17T21:00:00.000Z"
+        },
+        {
+            "username": "rambler31415926",
+            "rutrackerId": "23963721",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=23963721",
+            "thankDate": "2024-01-16T21:00:00.000Z"
+        },
+        {
+            "username": "be34you",
+            "rutrackerId": "6400021",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=6400021",
+            "thankDate": "2024-01-14T21:00:00.000Z"
+        },
+        {
+            "username": "Rooctor",
+            "rutrackerId": "24457633",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=24457633",
+            "thankDate": "2024-01-13T21:00:00.000Z"
+        },
+        {
+            "username": "Oleg_Olegov",
+            "rutrackerId": "29328222",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=29328222",
+            "thankDate": "2024-01-12T21:00:00.000Z"
+        },
+        {
+            "username": "Wolowizard",
+            "rutrackerId": "36593723",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=36593723",
+            "thankDate": "2024-01-10T21:00:00.000Z"
+        },
+        {
+            "username": "Mister_X_",
+            "rutrackerId": "5728890",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=5728890",
+            "thankDate": "2024-01-09T21:00:00.000Z"
+        },
+        {
+            "username": "dmutik",
+            "rutrackerId": "465617",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=465617",
+            "thankDate": "2024-01-05T21:00:00.000Z"
+        },
+        {
+            "username": "maxim77k",
+            "rutrackerId": "15236024",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=15236024",
+            "thankDate": "2024-01-05T21:00:00.000Z"
+        },
+        {
+            "username": "Postoronnim_23",
+            "rutrackerId": "17054674",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=17054674",
+            "thankDate": "2024-01-05T21:00:00.000Z"
+        },
+        {
+            "username": "SnowShow",
+            "rutrackerId": "30343081",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=30343081",
+            "thankDate": "2024-01-05T21:00:00.000Z"
+        },
+        {
+            "username": "arttrs",
+            "rutrackerId": "43323006",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=43323006",
+            "thankDate": "2024-01-03T21:00:00.000Z"
+        },
+        {
+            "username": "Merlin1618",
+            "rutrackerId": "15972331",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=15972331",
+            "thankDate": "2023-12-30T21:00:00.000Z"
+        },
+        {
+            "username": "assermag",
+            "rutrackerId": "17662848",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=17662848",
+            "thankDate": "2023-12-25T21:00:00.000Z"
+        },
+        {
+            "username": "DimonAmd",
+            "rutrackerId": "246414",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=246414",
+            "thankDate": "2023-12-25T21:00:00.000Z"
+        },
+        {
+            "username": "GreyMan10",
+            "rutrackerId": "6018574",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=6018574",
+            "thankDate": "2023-12-24T21:00:00.000Z"
+        },
+        {
+            "username": "Azzi2710",
+            "rutrackerId": "48608224",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=48608224",
+            "thankDate": "2023-12-21T21:00:00.000Z"
+        },
+        {
+            "username": "albedo2",
+            "rutrackerId": "10009474",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=10009474",
+            "thankDate": "2023-12-19T21:00:00.000Z"
+        },
+        {
+            "username": "mikki0013",
+            "rutrackerId": "14234157",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=14234157",
+            "thankDate": "2023-12-19T21:00:00.000Z"
+        },
+        {
+            "username": "studyingmadness",
+            "rutrackerId": "50090744",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=50090744",
+            "thankDate": "2023-12-16T21:00:00.000Z"
+        },
+        {
+            "username": "Alexuy2",
+            "rutrackerId": "25710136",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=25710136",
+            "thankDate": "2023-12-02T21:00:00.000Z"
+        },
+        {
+            "username": "megagrabber",
+            "rutrackerId": "18401658",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=18401658",
+            "thankDate": "2023-11-29T21:00:00.000Z"
+        },
+        {
+            "username": "Cordyline",
+            "rutrackerId": "10817259",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=10817259",
+            "thankDate": "2023-11-23T21:00:00.000Z"
+        },
+        {
+            "username": "Sise7en",
+            "rutrackerId": "27679233",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=27679233",
+            "thankDate": "2023-11-21T21:00:00.000Z"
+        },
+        {
+            "username": "yepenax",
+            "rutrackerId": "34865627",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=34865627",
+            "thankDate": "2023-11-18T21:00:00.000Z"
+        },
+        {
+            "username": "Gooseberryman",
+            "rutrackerId": "13799925",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=13799925",
+            "thankDate": "2023-11-16T21:00:00.000Z"
+        },
+        {
+            "username": "maxcamera",
+            "rutrackerId": "17166917",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=17166917",
+            "thankDate": "2023-11-06T21:00:00.000Z"
+        },
+        {
+            "username": "Glesss",
+            "rutrackerId": "23727729",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=23727729",
+            "thankDate": "2023-11-02T21:00:00.000Z"
+        },
+        {
+            "username": "szilard8",
+            "rutrackerId": "6825126",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=6825126",
+            "thankDate": "2023-11-02T21:00:00.000Z"
+        },
+        {
+            "username": "egor-888",
+            "rutrackerId": "13693234",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=13693234",
+            "thankDate": "2023-11-01T21:00:00.000Z"
+        },
+        {
+            "username": "dimon002030",
+            "rutrackerId": "43311955",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=43311955",
+            "thankDate": "2023-10-28T21:00:00.000Z"
+        },
+        {
+            "username": "negaror107",
+            "rutrackerId": "18589510",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=18589510",
+            "thankDate": "2023-10-28T21:00:00.000Z"
+        },
+        {
+            "username": "deniz-ko",
+            "rutrackerId": "12235478",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=12235478",
+            "thankDate": "2023-10-24T21:00:00.000Z"
+        },
+        {
+            "username": "sunrv1",
+            "rutrackerId": "22226956",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=22226956",
+            "thankDate": "2023-10-13T21:00:00.000Z"
+        },
+        {
+            "username": "yulianaspb",
+            "rutrackerId": "28194066",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=28194066",
+            "thankDate": "2023-10-12T21:00:00.000Z"
+        },
+        {
+            "username": "carlos_miguel",
+            "rutrackerId": "21728537",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=21728537",
+            "thankDate": "2023-10-09T21:00:00.000Z"
+        },
+        {
+            "username": "Alexandr23081973",
+            "rutrackerId": "30384527",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=30384527",
+            "thankDate": "2023-10-04T21:00:00.000Z"
+        },
+        {
+            "username": "xwanik",
+            "rutrackerId": "17480777",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=17480777",
+            "thankDate": "2023-09-27T21:00:00.000Z"
+        },
+        {
+            "username": "lamoz",
+            "rutrackerId": "10105452",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=10105452",
+            "thankDate": "2023-09-23T21:00:00.000Z"
+        },
+        {
+            "username": "::Green::",
+            "rutrackerId": "13319980",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=13319980",
+            "thankDate": "2023-09-21T21:00:00.000Z"
+        },
+        {
+            "username": "vladimirsky12",
+            "rutrackerId": "40129762",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=40129762",
+            "thankDate": "2023-09-21T21:00:00.000Z"
+        },
+        {
+            "username": "jetset001",
+            "rutrackerId": "16393507",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=16393507",
+            "thankDate": "2023-09-20T21:00:00.000Z"
+        },
+        {
+            "username": "p0var",
+            "rutrackerId": "262633",
+            "rutrackerURL": "https://rutracker.org/forum/profile.php?mode=viewprofile&u=262633",
+            "thankDate": "2023-09-20T21:00:00.000Z"
+        }
+    ],
+    "categoryId": "1426"
+}

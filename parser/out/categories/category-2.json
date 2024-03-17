@@ -1,0 +1,667 @@
+{
+    "rutrackerId": "2",
+    "rutrackerURL": "https://rutracker.org/forum/index.php?c=2",
+    "name": "Кино, Видео и ТВ",
+    "subcategories": [
+        {
+            "rutrackerId": "692",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=692",
+            "name": "Заявки, заказы, координация",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "23",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=23",
+            "name": "Обработка видео + аудио",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "707",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=707",
+            "name": "Работа с DVD",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1194",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1194",
+            "name": "Работа с BLU RAY и HD-DVD",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "941",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=941",
+            "name": "Кино СССР",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1666",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1666",
+            "name": "Детские отечественные фильмы",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "376",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=376",
+            "name": "Авторские дебюты",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "106",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=106",
+            "name": "Фильмы России и СССР на национальных языках [без перевода]",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "772",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=772",
+            "name": "Российские/советские режиссёры и их творчество",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "789",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=789",
+            "name": "Российские/советские актёры и фильмы с их участием",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "65",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=65",
+            "name": "Ищу (Наше кино) + Тематические ссылки",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1640",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1640",
+            "name": "Тематические подборки ссылок",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "187",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=187",
+            "name": "Классика мирового кинематографа",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2090",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2090",
+            "name": "Фильмы до 1990 года",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2221",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2221",
+            "name": "Фильмы 1991-2000",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2091",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2091",
+            "name": "Фильмы 2001-2005",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2092",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2092",
+            "name": "Фильмы 2006-2010",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2093",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2093",
+            "name": "Фильмы 2011-2015",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2200",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2200",
+            "name": "Фильмы 2016-2020",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1950",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1950",
+            "name": "Фильмы 2021-2023",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "252",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=252",
+            "name": "Фильмы 2024",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2540",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2540",
+            "name": "Фильмы Ближнего Зарубежья",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "934",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=934",
+            "name": "Азиатские фильмы",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "505",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=505",
+            "name": "Индийское кино",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "212",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=212",
+            "name": "Сборники фильмов",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2459",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2459",
+            "name": "Короткий метр",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1235",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1235",
+            "name": "Грайндхаус",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "166",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=166",
+            "name": "Зарубежные фильмы без перевода",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "185",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=185",
+            "name": "Звуковые дорожки и Переводы",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1454",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1454",
+            "name": "Авторский перевод",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2374",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2374",
+            "name": "Закадровый перевод",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1692",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1692",
+            "name": "Подраздел переводчиков",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2373",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2373",
+            "name": "Профессиональные студии закадрового перевода и дубляжа",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "254",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=254",
+            "name": "Зарубежные актёры и фильмы с их участием",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "771",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=771",
+            "name": "Зарубежные режиссёры и их творчество",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "44",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=44",
+            "name": "Поиск и обсуждение фильмов",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "906",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=906",
+            "name": "Ищу / Предлагаю звуковые дорожки и переводы",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1543",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1543",
+            "name": "Короткий метр (Арт-хаус и авторское кино)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "709",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=709",
+            "name": "Документальные фильмы (Арт-хаус и авторское кино)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1577",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1577",
+            "name": "Анимация (Арт-хаус и авторское кино)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "149",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=149",
+            "name": "Фильмографии (Авторское кино)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "125",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=125",
+            "name": "Ищу / Предлагаю (Авторское кино)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "186",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=186",
+            "name": "Поговорим об арт-хаусе",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1493",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1493",
+            "name": "Спектакли без перевода",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "513",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=513",
+            "name": "Ищу / Предлагаю (Театр)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "94",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=94",
+            "name": "Ищу / Предлагаю (DVD, HD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "905",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=905",
+            "name": "Классика мирового кинематографа (DVD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "101",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=101",
+            "name": "Зарубежное кино (DVD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "100",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=100",
+            "name": "Наше кино (DVD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "877",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=877",
+            "name": "Фильмы Ближнего Зарубежья (DVD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1576",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1576",
+            "name": "Азиатские фильмы (DVD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "572",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=572",
+            "name": "Арт-хаус и авторское кино (DVD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2220",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2220",
+            "name": "Индийское кино (DVD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1670",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1670",
+            "name": "Грайндхаус (DVD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2199",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2199",
+            "name": "Классика мирового кинематографа (HD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "313",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=313",
+            "name": "Зарубежное кино (HD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "312",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=312",
+            "name": "Наше кино (HD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1247",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1247",
+            "name": "Фильмы Ближнего Зарубежья (HD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2201",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2201",
+            "name": "Азиатские фильмы (HD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2339",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2339",
+            "name": "Арт-хаус и авторское кино (HD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "140",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=140",
+            "name": "Индийское кино (HD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "194",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=194",
+            "name": "Грайндхаус (HD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "653",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=653",
+            "name": "Анонсы (U)HD Video",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "775",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=775",
+            "name": "Классика мирового кинематографа (UHD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1457",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1457",
+            "name": "Зарубежное кино (UHD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1940",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1940",
+            "name": "Наше кино (UHD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "272",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=272",
+            "name": "Азиатские фильмы (UHD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "271",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=271",
+            "name": "Арт-хаус и авторское кино (UHD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "549",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=549",
+            "name": "3D Кинофильмы",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1213",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1213",
+            "name": "3D Мультфильмы",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2109",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2109",
+            "name": "3D Документальные фильмы",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "514",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=514",
+            "name": "3D Спорт",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2097",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2097",
+            "name": "3D Ролики, Музыкальное видео, Трейлеры к фильмам",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "84",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=84",
+            "name": "Мультфильмы (UHD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2343",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2343",
+            "name": "Отечественные мультфильмы (HD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "930",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=930",
+            "name": "Иностранные мультфильмы (HD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2365",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2365",
+            "name": "Иностранные короткометражные мультфильмы (HD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1900",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1900",
+            "name": "Отечественные мультфильмы (DVD)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2258",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2258",
+            "name": "Иностранные короткометражные мультфильмы (DVD)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "521",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=521",
+            "name": "Иностранные мультфильмы (DVD)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "208",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=208",
+            "name": "Отечественные мультфильмы",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "539",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=539",
+            "name": "Отечественные полнометражные мультфильмы",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2183",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2183",
+            "name": "Мультфильмы Ближнего Зарубежья",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "209",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=209",
+            "name": "Иностранные мультфильмы",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "484",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=484",
+            "name": "Иностранные короткометражные мультфильмы",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "822",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=822",
+            "name": "Сборники мультфильмов",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "181",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=181",
+            "name": "Мультфильмы без перевода",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "86",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=86",
+            "name": "Ищу (Мультфильмы)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "815",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=815",
+            "name": "Мультсериалы (SD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "816",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=816",
+            "name": "Мультсериалы (DVD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1460",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1460",
+            "name": "Мультсериалы (HD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "498",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=498",
+            "name": "Мультсериалы (UHD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "932",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=932",
+            "name": "Ищу (Мультсериалы)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1385",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1385",
+            "name": "Предложения по улучшению раздела \"Аниме\"",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "705",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=705",
+            "name": "Поговорим об аниме",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1106",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1106",
+            "name": "Онгоинги (HD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1105",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1105",
+            "name": "Аниме (HD Video)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "599",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=599",
+            "name": "Аниме (DVD)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1389",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1389",
+            "name": "Аниме (основной подраздел)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1391",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1391",
+            "name": "Аниме (плеерный подраздел)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2491",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2491",
+            "name": "Аниме (QC подраздел)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2544",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2544",
+            "name": "Ван-Пис",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1642",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1642",
+            "name": "Гандам",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1390",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1390",
+            "name": "Наруто",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "404",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=404",
+            "name": "Покемоны",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "893",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=893",
+            "name": "Японские мультфильмы",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "809",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=809",
+            "name": "Звуковые дорожки (Аниме)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "2484",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=2484",
+            "name": "Артбуки и журналы (Аниме)",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1386",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1386",
+            "name": "Обои, сканы, аватары, арт",
+            "parentId": "2"
+        },
+        {
+            "rutrackerId": "1387",
+            "rutrackerURL": "https://rutracker.org/forum/viewforum.php?f=1387",
+            "name": "AMV и другие ролики",
+            "parentId": "2"
+        }
+    ]
+}
