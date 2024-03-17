@@ -6,6 +6,7 @@
 4. [Запуск с помощью `pm2`](#pm2)
 5. [Запуск с помощью `docker-compose`](#docker-compose)
 6. [Как работать с парсером](#how-to-use)
+7. [Превью парсинга](#example)
 
 # Задание, стэк и структура
 
@@ -188,3 +189,15 @@ node get-each-category.js
 ```bash
 node get-each-post-in-subcategory.js id=1234
 ```
+
+# <a name="example">Превью парсинга</a>
+
+Вы можете найти **примеры** парсинга в папках `/parser/out/categories` и `/parser/out/posts`
+
+Функция `get-each-category.js`:
+
+<img src="https://i.imgur.com/F2nequB.gif" />
+
+Функция `get-each-post-in-subcategory.js`:
+
+<img src="https://i.imgur.com/L1RfLtA.gif" />
