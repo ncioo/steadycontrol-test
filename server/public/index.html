@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>API Guides</title>
+		<style>
+			* {
+				background-color: rgb(39, 39, 39);
+				color: rgb(134, 134, 134);
+			}
+			body {
+				font-family: Arial, Helvetica, sans-serif;
+				font-size: 18px;
+			}
+			#content {
+				position: absolute;
+				top: 50%;
+				left: 50%;
+				transform: translate(-50%, -50%);
+				padding: 10px;
+
+				display: grid;
+				grid-template-columns: repeat(3, 1fr);
+			}
+			#links {
+				min-width: 450px;
+				list-style: decimal;
+				padding-left: 0;
+			}
+			.link {
+				margin-top: 6px;
+				padding: 3px;
+			}
+			.link a {
+				display: block;
+				text-decoration: none;
+			}
+			.link a:hover {
+				text-decoration: underline;
+			}
+			.desc {
+				display: block;
+				color: rgb(233, 233, 233);
+				font-size: 14px;
+				margin-bottom: 6px;
+			}
+			.al1 {
+				color: rgb(226, 154, 21);
+			}
+			.al2 {
+				color: rgb(162, 66, 252);
+			}
+			.al3 {
+				color: rgb(3, 202, 186);
+			}
+			.al4 {
+				color: rgb(218, 214, 28);
+			}
+			.al5 {
+				font-size: 14px;
+				color: rgb(170, 170, 170);
+			}
+		</style>
+	</head>
+	<body>
+		<div id="content">
+			<ul id="links">
+				<h3>Category endpoints</h3>
+				<li class="link">
+					<span class="desc">Get all categories</span>
+
+					<a href="/api/categories">
+						localhost:4000/
+						<span class="al1">api/</span>
+						<span class="al2">categories/</span>
+					</a>
+
+					<span class="al5">Query: page=1+ | step=15+ | sortBy=date.desc / date.asc</span>
+				</li>
+				<li class="link">
+					<span class="desc">Get category by its Mongo ObjectId</span>
+
+					<a href="/api/category/65f5ed5869b9d369db527b22">
+						localhost:4000/
+						<span class="al1">api/</span>
+						<span class="al2">category/</span>
+						<span class="al3">:categoryId/</span>
+					</a>
+				</li>
+				<li class="link">
+					<span class="desc">Get subcategories in category by its Mongo ObjectId</span>
+
+					<a href="/api/category/65f5ed5869b9d369db527b22/subcategories">
+						localhost:4000/
+						<span class="al1">api/</span>
+						<span class="al2">category/</span>
+						<span class="al3">:categoryId/</span>
+						<span class="al4">subcategories</span>
+					</a>
+
+					<span class="al5">Query: page=1+ | step=15+ | sortBy=date.desc / date.asc</span>
+				</li>
+				<li class="link">
+					<span class="desc">Get posts in subcategory by its Mongo ObjectId</span>
+
+					<a href="/api/category/65f5ed5869b9d369db527cf8/posts">
+						localhost:4000/
+						<span class="al1">api/</span>
+						<span class="al2">category/</span>
+						<span class="al3">:categoryId/</span>
+						<span class="al4">posts</span>
+					</a>
+
+					<span class="al5">Query: page=1+ | step=15+ | sortBy=date.desc / date.asc</span>
+				</li>
+			</ul>
+			<ul id="links">
+				<h3>Post endpoints</h3>
+				<li class="link">
+					<span class="desc">Get all posts</span>
+
+					<a href="/api/posts/">
+						localhost:4000/
+						<span class="al1">api/</span>
+						<span class="al2">posts/</span>
+					</a>
+
+					<span class="al5">Query: page=1+ | step=15+ | sortBy=date.desc / date.asc</span>
+				</li>
+				<li class="link">
+					<span class="desc">Get post by its Mongo ObjectId</span>
+
+					<a href="/api/post/65f5f37ad063ca49ff969383">
+						localhost:4000/
+						<span class="al1">api/</span>
+						<span class="al2">post/</span>
+						<span class="al3">:postId/</span>
+					</a>
+				</li>
+				<li class="link">
+					<span class="desc">Get author in post by its Mongo ObjectId</span>
+
+					<a href="/api/post/65f5f37ad063ca49ff969383/author">
+						localhost:4000/
+						<span class="al1">api/</span>
+						<span class="al2">post/</span>
+						<span class="al3">:postId/</span>
+						<span class="al4">author</span>
+					</a>
+				</li>
+				<li class="link">
+					<span class="desc">Get thank list in post by its Mongo ObjectId</span>
+
+					<a href="/api/post/65f5f37ad063ca49ff969383/thanks">
+						localhost:4000/
+						<span class="al1">api/</span>
+						<span class="al2">post/</span>
+						<span class="al3">:postId/</span>
+						<span class="al4">thanks</span>
+					</a>
+				</li>
+			</ul>
+			<ul id="links">
+				<h3>User endpoints</h3>
+				<li class="link">
+					<span class="desc">Get user by its Mongo ObjectId</span>
+
+					<a href="/api/post/65f5f37ad063ca49ff96933a/">
+						localhost:4000/
+						<span class="al1">api/</span>
+						<span class="al2">user/</span>
+						<span class="al3">:userId/</span>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</body>
+</html>
