@@ -11,7 +11,7 @@ services:
             - '4000:4000'
         environment:
             - DB_HOST=mongodb
-        image: ncioo/steadycontrol-test:latest
+        image: ncioo/steadycontrol-server:latest
 
     mongodb:
         image: mongo:latest
