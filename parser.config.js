@@ -3,8 +3,7 @@ const domain = 'rutracker.org';
 module.exports = {
 	sessionCookie: '0-46806021-qU0XnFDRxyG59TmlX8jC',
 
-	htmlOutput: false,
-	jsonOutput: false,
+	jsonOutput: true,
 	postsPagesParsingLimit: 3,
 
 	//	Категория "Книги и журналы"
