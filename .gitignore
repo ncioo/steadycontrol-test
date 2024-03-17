@@ -1,0 +1,5 @@
+.cache
+.vscode
+.env*
+node_modules
+parser/out/
