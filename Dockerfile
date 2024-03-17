@@ -9,11 +9,13 @@ RUN apt-get update \
     --no-install-recommends \
     && rm -rf /var/lib/apt/lists/*
 
-RUN groupadd -r pptruser && useradd -r -g pptruser -G audio,video pptruser
-
 WORKDIR /app
 COPY . .
 RUN npm install 
+
+RUN groupadd -r pptruser && useradd -r -g pptruser -G audio,video pptruser
+
+RUN npx puppeteer browsers install chrome
 
 EXPOSE 4000
 USER pptruser
